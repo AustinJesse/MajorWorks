@@ -1,0 +1,10 @@
+﻿  MainSource.cpp
+  ShapeSource.cpp
+D:\Assignment 1\ShapeSource.cpp(68,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Assignment 1\ShapeSource.cpp(69,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Assignment 1\ShapeSource.cpp(70,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Assignment 1\ShapeSource.cpp(156,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Assignment 1\ShapeSource.cpp(157,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Assignment 1\ShapeSource.cpp(158,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Assignment 1.vcxproj -> D:\Assignment 1\x64\Debug\Assignment 1.exe
